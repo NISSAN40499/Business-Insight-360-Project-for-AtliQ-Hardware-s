@@ -13,3 +13,5 @@ During the **kick-off meeting**, all the features outlined in the **Excel file**
 **Tony** raised several project-related questions to **Nick** to clarify project scope and resources. A significant point of discussion was the **reliability data** required for the **Supply Chain View**. Tony mentioned that this data was currently unavailable. He further shared that he had spoken with the **Data Engineers** about obtaining this data, to which the engineers replied that it would take approximately **4-6 weeks** to gather.
 
 Despite the delay in acquiring the reliability data, **Nick** confirmed that the team could proceed with the project using the available resources. Once the **reliability data** becomes available, it will be integrated into the project at a later stage.
+
+Links: https://acrobat.adobe.com/id/urn:aaid:sc:AP:5aa2685e-7d27-4966-8356-68ddaff85190
