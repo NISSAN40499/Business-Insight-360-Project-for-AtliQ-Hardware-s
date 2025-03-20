@@ -14,4 +14,4 @@ During the **kick-off meeting**, all the features outlined in the **Excel file**
 
 Despite the delay in acquiring the reliability data, **Nick** confirmed that the team could proceed with the project using the available resources. Once the **reliability data** becomes available, it will be integrated into the project at a later stage.
 
-Links: https://acrobat.adobe.com/id/urn:aaid:sc:AP:5aa2685e-7d27-4966-8356-68ddaff85190
+Links: https://acrobat.adobe.com/id/urn:aaid:sc:AP:5db6e53f-30fc-4b00-8400-feb3ee99c439
