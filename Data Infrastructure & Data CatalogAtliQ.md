@@ -1,6 +1,6 @@
 ### **Data Warehousing at AtliQ**
 
-AtliQ's data infrastructure is structured as a **scattered system** consisting of multiple **Database Management Systems (DBMS)**. These systems are managed by different teams across the organization. a sample example of AtliQ's Databases is:
+AtliQ's data infrastructure is structured as a **scattered system** consisting of multiple **Database Management Systems (DBMS)**. These systems are managed by different teams across the organization:
 
 - **Software Engineers** manage the following:
   - Sales Software
@@ -31,4 +31,21 @@ To perform effective data analysis, we may need to:
 
 By having a dedicated **Data Warehouse**, AtliQ can handle large volumes of data from multiple sources while maintaining system performance and ensuring that the data is clean and ready for analysis.
 
-#### AtliQ's Data Infrastructure looks like this: https://drive.google.com/file/d/1NH0heKcGcFz0fNBF5QeLHnJx5D-lGnQ5/view?usp=sharing
+
+### **AtliQ’s Data Catalog**
+
+As part of the project’s data analysis process, **Tony Sharma (DA Lead)** provided a detailed **Data Catalog** to ensure we are working with the correct databases and datasets for the project. This catalog was delivered in the form of an Excel file, which includes:
+
+- **DBMS Server Names**: The names of the database servers where the data is stored.
+- **Table Names**: The specific tables in each DBMS that contain relevant data.
+- **Table Descriptions**: Brief descriptions of what each table contains.
+- **Contact Information for Data Engineering Support**: In case any issues arise while working with the databases.
+
+Based on the needs of the **Business Insight 360** project, we have selected the following two data servers and datasets:
+
+- **gdb041**
+- **gdb056**
+
+The next step in the process is for the **Data Engineering team** to grant us access to these databases. Once access is granted, we will proceed to **import the data into MySQL**, where we will set up the **Data Warehouse** for further analysis and reporting.
+
+### AtliQ's Data infrastructure and Data Catelog PDF: https://drive.google.com/file/d/1-U9d7SHovw6CSTUdNe_20UQibj-j6-NP/view?usp=sharing
