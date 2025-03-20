@@ -1,4 +1,4 @@
-### **AtliQ Hardware – Business Model & Problem Statement**  
+## **AtliQ Hardware – Business Model & Problem Statement**  
 
 #### **Business Model Overview**  
 AtliQ Hardware is a rapidly growing electronics company specializing in PCs, laptops, and peripherals such as mice and keyboards. Similar to Dell or HP, AtliQ sells its products through a diverse network of customers, including major retail chains and e-commerce platforms.  
