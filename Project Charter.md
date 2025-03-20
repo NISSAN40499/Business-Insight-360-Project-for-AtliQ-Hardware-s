@@ -8,10 +8,10 @@ AtliQ Hardware is dedicated to integrating data-driven decision-making into its 
 
 - **Key Players**:  
   - **Product Owner**: Nick Puri  
-  - **Business Development Executive Sponsor**: Hassan N., CEO  
+  - **Business Development Executive Sponsor**: Stan Kohli, CEO  
   - **DA Lead**: Tony Sharma  
   - **Senior DA**: Tony Sharma  
-  - **Junior DA**: Maynul Hassan Nissan (You)
+  - **Junior DA**: Maynul Hassan Nissan (I)
 
 - **Objective**:  
   - Enable **data-driven decision-making** across markets.
