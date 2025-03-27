@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NISSAN40499/Business-Insight-360-Project-for-AtliQ-Hardware-s/main/AtliQ-Logo-2.png" width="150">
+  <img src="https://github.com/NISSAN40499/Business-Insight-360-Project-for-AtliQ-Hardware-s/blob/main/Logo%20%7C%7C%20Template%20%7C%7C%20PNG%20%7C%7C%20Images/AtliQ-Logo-2.png" width="150">
 </p>
 
 
