@@ -7,9 +7,9 @@ For our project, we have created a User Acceptance Report that will be shared wi
 | Category                                      | Who?      | Validation Checklist                         | Approval?      | Comments |
 |-----------------------------------------------|----------|--------------------------------------------|---------------|----------|
 | **Power BI User Interface & Experience**      |          |                                            |               |          |
-| PBI functionality                             | Nick Puri | Visuals are clear and readable             | Under Review  |          |
-|                                               | Nick Puri | Dashboard provides actionable insights      | Under Review  |          |
-|                                               | Nick Puri | All functions are working as intended      | Under Review  |          |
+| PBI functionality                             |          | Visuals are clear and readable             | Under Review  |          |
+|                                               |          | Dashboard provides actionable insights      | Under Review  |          |
+|                                               |          | All functions are working as intended      | Under Review  |          |
 | **Financial Numbers**                         |          |                                            |               |          |
 | Transactional Data                            |          | Data is correct                            | Under Review  |          |
 |                                               |          | Data is complete                           | Under Review  |          |
@@ -19,17 +19,16 @@ For our project, we have created a User Acceptance Report that will be shared wi
 | **Forecast Numbers**                          |          |                                            |               |          |
 | Transactional Data                            |          | Data is correct                            | Under Review  |          |
 |                                               |          | Data is complete                           | Under Review  |          |
-| **Region/Market / Customer Hierarchy**        | Nick Puri | Hierarchy is correct                       | Under Review  |          |
-| **Product Hierarchy**                         | Nick Puri | Hierarchy is correct                       | Under Review  |          |
+| **Region/Market / Customer Hierarchy**        |          | Hierarchy is correct                       | Under Review  |          |
+| **Product Hierarchy**                         |          | Hierarchy is correct                       | Under Review  |          |
 
 Approval Status Options: **Under Review**, **Done**, **Pending Review**
 
 ---
+This is how Stakeholder Mapping Analysis Grid Looks like: https://drive.google.com/file/d/1NOO7unNMHw1Rkz0PuPNYsTXW9w091b7u/view?usp=sharing
 
 ## Stakeholder Mapping Analysis
 Before collecting feedback from stakeholders, we conducted a Stakeholder Mapping Analysis. This helps us prepare for the stakeholder meeting by identifying different levels of power and interest within the project.
-
-Before the metting, I have collected certain information about who will be attending to this meeting and based on their charecteristics I have created my own stakeholder Analysis grid.
 
 ### Stakeholder Analysis Grid
 - **Low Power, Low Interest**: These stakeholders need to be kept informed. They do not influence decisions but should be aware of project progress.
@@ -37,8 +36,6 @@ Before the metting, I have collected certain information about who will be atten
 - **High Power, Low Interest**: These stakeholders must have their needs met efficiently. Their decisions impact the project, even if they are not deeply involved.
 - **High Power, High Interest**: These stakeholders are key players. They require the most attention as they are influential decision-makers.
 
-#### Here is a Pdf of how stakeholder mapping analysis grid looks: https://drive.google.com/file/d/1NOO7unNMHw1Rkz0PuPNYsTXW9w091b7u/view?usp=sharing
----
 ### Key Stakeholders
 | Name                | Role                                      | Placement in Stakeholder Matrix             |
 |---------------------|-----------------------------------------|---------------------------------------------|
@@ -69,6 +66,18 @@ During the stakeholder meeting, we collected feedback to enhance the report. Man
 | 12 | Add drill-through or tooltip for a full trend over a table | Bruce Hariwali | |
 
 The feedback collected is critical in refining our project and ensuring user satisfaction. Implementing these quick fixes and feature updates will make the report more impactful and valuable for the business.
+
+---
+
+## Additional Feature Requests
+| Feedback from Stakeholder Meeting | Requester | Action Owner | Additional Hint |
+|-----------------------------------|-----------|--------------|----------------|
+| Add Target.xlsx file (attached below) to Power BI and connect it to the data model | Nick Puri | You |  |
+| Create NS, GM %, and Net Profit % target measures and add them to finance view KPI card visuals | Nick Puri | You |  |
+| Adjust labels as necessary | Nick Puri | You |  |
+| Create a dynamic switch between two DAX measures | Thor Hathodwala | You | Google for 'create a toggle switch between DAX measures' |
+| Display appropriate message if the target value returns blank | Thor Hathodwala | You |  |
+| Adjust the P & L visuals' related measures to compare Target or LY based on selection | Thor Hathodwala | You | Use the same concept used to adjust KPI card visuals |
 
 ---
 
