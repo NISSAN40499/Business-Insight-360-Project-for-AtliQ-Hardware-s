@@ -69,4 +69,5 @@ Now, let's refine the button's appearance.
 ---
 
 ## **Final Result**
-With this setup, users can **click the toggle button to seamlessly switch** between NS$ vs GM$ and NP$ vs GM$. 🚀
+With this setup, users can **click the toggle button to seamlessly switch** between NS$ vs GM$ and NP$ vs GM$. 
+Here is a reference video to create a toggle button:https://youtu.be/5QMpc5fUV2I?si=DG-FMOvdL2ncUdFL
