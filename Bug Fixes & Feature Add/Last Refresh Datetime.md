@@ -34,9 +34,7 @@ To provide flexibility in reporting, we split the **DateTime** column into separ
    = Table.TransformColumns(#"Renamed Columns2", {{"Time", DateTime.Time, type time}})
    ```
 
-   - This ensures the **Time column** contains only the time portion of the `DateTime` value.  
-
----
+   - This ensures the **Time column** contains only the time portion of the `DateTime` value.
 
 ## **Step 3: Displaying the Last Refresh Timestamp in the Report**  
 
@@ -51,3 +49,11 @@ Now, we bring this into the Power BI report for visibility:
    - Type **"Last Update:"** next to the Card Visual  
 
 This setup ensures the last refresh time updates **automatically** every time the dataset is refreshed. 🚀
+
+## Add a footer of Last sales data update date
+
+We have created a dynamic last sales data update time footer of the homepage of our report. 
+```dax
+Last_sales_month_footer = 
+"Sales data added until:" &FORMAT(max(Last_sales_Month[Last_sales_Month]),"MMM yy") 
+ ```
