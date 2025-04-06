@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/NISSAN40499/Business-Insight-360-Project-for-AtliQ-Hardware-s/blob/main/Logo%20%7C%7C%20Template%20%7C%7C%20PNG%20%7C%7C%20Images/AtliQ%20Hardware%20project%20Charter.png" width="850">
+</p>
+
 ## **AtliQ Project Charter: Regional Business Insight 360**
 
 #### **1. What We Know So Far**
